@@ -1,4 +1,3 @@
-#SingleInstance force
 ;put together with the help from many different people. thanks for all the help.
 
 ;=======================
